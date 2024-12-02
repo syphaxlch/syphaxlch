@@ -28,7 +28,8 @@ I am a versatile software developer passionate about crafting intelligent soluti
 
 ## 🌐 Let’s Connect  
 - **GitHub:** [syphaxlch](https://github.com/syphaxlch)  
-- **LinkedIn:** [Syphax LAKHDARCHAOUCHE ](#) *(https://www.linkedin.com/in/syphaxlch)*  
+- **LinkedIn:** [Syphax Lakhdarchaouche](https://www.linkedin.com/in/syphax-lakhdarchaouche/)
+- 
 
 ## 📊 My GitHub Stats  
 ![Syphax's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syphaxlch&layout=compact&theme=radical)
