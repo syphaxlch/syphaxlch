@@ -27,9 +27,9 @@ I am a versatile software developer passionate about crafting intelligent soluti
 4. Developing skills in managing system vulnerabilities, security incidents, and implementing effective response strategies.
 
 ## 🌐 Let’s Connect  
-- **GitHub:** [syphaxlch](https://github.com/syphaxlch)  
-- **LinkedIn:** [Syphax Lakhdarchaouche](https://www.linkedin.com/in/syphax-lakhdarchaouche/)
-- 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syphax-lakhdarchaouche/)
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/umjmzMvF)
+
 
 ## 📊 My GitHub Stats  
 ![Syphax's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syphaxlch&layout=compact&theme=radical)
