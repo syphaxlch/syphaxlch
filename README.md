@@ -3,7 +3,7 @@
 I am a versatile software developer passionate about crafting intelligent solutions in web development, cybersecurity and artificial intelligence. My expertise spans multiple domains, including full-stack development, cloud automation, machine learning, and database management.  
 
 ## 📚 Programming Languages  
-![PHP Logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY3JlZW4tZ3JhcGhpY3Mgb2YgYW5pbWF0ZWQgc3ZnIHZpZXc9IjAgMCAyNCAyNCIgYXZlcnNpb249IiZsdWZmOyI+PHRpdGxlPlBIPC0tLT58PGc3Lj01LjEwOCB4Y2P5aHJveW5nUnVkLApZI3te9Iffff;++}\"dm5jPH8gV3gvz;;;
+![PHP](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart) ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql) ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab)
 
 
