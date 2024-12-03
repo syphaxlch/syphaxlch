@@ -29,12 +29,12 @@ I am a versatile software developer passionate about crafting intelligent soluti
 
 ## 🌱 What I’m Learning  
 
-1. Mastering the design, deployment, and management of dynamic data visualization tools and dashboards.  
-2. Acquiring expertise in machine learning algorithms for supervised and unsupervised learning in real-world applications.  
-3. Gaining knowledge in cloud computing, containerization, and deploying applications in cloud environments.  
-4. Developing skills in managing system vulnerabilities, security incidents, and implementing effective response strategies.
+- Mastering the design, deployment, and management of dynamic data visualization tools and dashboards.
+- - Acquiring expertise in machine learning algorithms for supervised and unsupervised learning in real-world applications.  
+- Gaining knowledge in cloud computing, containerization, and deploying applications in cloud environments.  
+- Developing skills in managing system vulnerabilities, security incidents, and implementing effective response strategies.
 
-## 🌐 Let’s Connect  
+## 🌍 Let’s Connect  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syphaxlch/)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/umjmzMvF)
 
