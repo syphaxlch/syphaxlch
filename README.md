@@ -1,6 +1,6 @@
 # Hi, I'm Syphax !  
 
-I am a versatile software developer passionate about crafting intelligent solutions in web development, cybersecurity and artificial intelligence. My expertise spans multiple domains, including full-stack development, cloud automation, machine learning, generative ai and data science.  
+I am a versatile software developer passionate about crafting intelligent solutions in web development, cybersecurity and artificial intelligence. My expertise spans multiple domains, including full-stack development, cloud computing, generative ai and data science.  
 
 ## 📚 Programming Languages  
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=purple)
