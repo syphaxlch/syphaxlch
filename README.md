@@ -1,6 +1,10 @@
 # Hi, I'm Syphax !  
 
-I am a versatile software developer, passionate about creating intelligent solutions in web development. My experience spans multiple domains, including full-stack development, cloud computing, generative AI, and data science.
+## 👋 About Me
+
+🎓 I'm a computer science student passionate about **Web Development** and **DevOps**.  
+🚀 I enjoy building real-world projects, learning modern technologies, and solving technical challenges.  
+🧠 I'm constantly improving my skills through hands-on practice and real deployments.
 
 ## 📚 Programming Languages  
 ![PHP](https://img.shields.io/badge/-PHP-6e7fdb?style=for-the-badge&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)  ![Dart](https://img.shields.io/badge/-Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white)  ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-003B5C?style=for-the-badge&logo=postgresql&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-68217a?style=for-the-badge&logo=csharp&logoColor=white)  ![MATLAB](https://img.shields.io/badge/-MATLAB-ea1d2c?style=for-the-badge&logo=matlab&logoColor=white)
@@ -21,7 +25,7 @@ I am a versatile software developer, passionate about creating intelligent solut
 ![LangChain](https://img.shields.io/badge/-LangChain-306998?style=for-the-badge&logo=python&logoColor=white)  ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FFD700?style=for-the-badge&logo=python&logoColor=black)  ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-FFD700?style=for-the-badge&logo=python&logoColor=black)
 
 - **Game Development:**  
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  ![UE5](https://img.shields.io/badge/-Unreal%20Engine%205-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  ![UE5](https://img.shields.io/badge/-Unreal%20Engine%205-000000?style=for-the-badge&logo=unrealengine&logoColor=white) ![Machinations.io](https://img.shields.io/badge/Machinations.io-0066FF?style=for-the-badge&logo=data&logoColor=white)
 
 - **DevOps & Automation:**  
 ![Azure](https://img.shields.io/badge/-Azure-4fc08d?style=for-the-badge&logo=microsoft-azure&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
